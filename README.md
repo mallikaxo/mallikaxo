@@ -1,16 +1,13 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hi, I’m Malika Singh<br><br>I’m an M.Tech Chemical Engineering student at IIT (BHU), Varanasi (exp. 06/2026) with a strong focus on product analytics, business problem-solving, and data-driven decision making.<br>I work at the intersection of product thinking, analytics, and engineering, using data to identify opportunities, validate decisions, and drive measurable business outcomes — not just build models.<br><br>🎯 What I focus on (in order)<br><br>Product & business analytics: Funnel analysis, pricing logic, market sizing, customer behavior, and revenue insights<br>Data-driven decision support: Translating ambiguous problems into structured analyses that inform product and strategy choices<br>End-to-end analytics projects: SQL pipelines, dashboards, KPI frameworks, and insight storytelling<br>Energy & battery analytics (selective): Health estimation and performance modeling as applied analytics problems<br><br>🧠 How I think<br><br>Product impact > model complexity<br>Clarity, trade-offs, and why matter more than technical novelty<br>Data → insight → decision → outcome<br><br>🛠 Tech Stack<br><br>Python (pandas, numpy, scikit-learn, matplotlib, seaborn)<br>SQL (MySQL)<br>Tableau | Power BI<br>MATLAB | Excel<br><br>📌 Currently exploring: Product analytics, analytics-led experimentation, and business problem-solving across consumer, energy-adjacent, and marketplace use cases.
 
-<!--
-**mallikaxo/mallikaxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mallikaxo&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mallikaxo&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mallikaxo&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=mallikaxo&icon=1&color=1)](https://visitcount.itsvg.in)
